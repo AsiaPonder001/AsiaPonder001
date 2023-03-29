@@ -1,4 +1,4 @@
-<h1>Hi, I'm Asia, an <a href="https://linkedin.com/in/asia-ponder-5a21a4221/">IT Professional</a>🤓</h1>
+<h1>Hi, I'm Asia, an <a href="https://linkedin.com/in/asia-ponder-5a21a4221/">IT Professional</a>😉</h1>
 
 <h2>👩🏾‍💻 Information Technology Projects:</h2>
 
